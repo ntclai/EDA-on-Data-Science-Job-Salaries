@@ -1,6 +1,7 @@
 ## Salaries of jobs in the Data Science domain
 
 #### Link dataset: https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries
+#### SOURCES: https://salaries.ai-jobs.net/
 #### Link project: https://www.kaggle.com/code/nguyenthicamlai/data-science-job-salaries-eda-q-a
 
 #### Goal of creating this Notebook
